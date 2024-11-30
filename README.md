@@ -1,5 +1,5 @@
 ### Remote Internship at Unified Mentor
-During the internship at Unified Mentor I build the following two projects by performing various tasks including data cleaning, transformation, visualization, extracing insights to help making data friven decisions which will imrpve the overall business profitability.  
+During the internship at Unified Mentor I build the following 2 projects by performing various tasks including data cleaning, transformation, visualization, extracing insights to help organization make data driven decisions which will improve the overall business profitability.  
 
 ### Task 1 - Employee-Attrition-Analysis
 
